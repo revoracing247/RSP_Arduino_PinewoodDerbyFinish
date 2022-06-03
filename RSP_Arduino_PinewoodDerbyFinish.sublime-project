@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"path": "C:\\Program Files (x86)\\Arduino\\arduino_debug.exe",
+		
+		// "board": "arduino:avr:uno",
+		// "board": "arduino:avr:nano:cpu=atmega328old", // my 3rd party Nano
+		"board": "arduino:megaavr:nona4809", // Arduino Nano Every (must download Arduino megaAVR Boards through Board Manager)
+		
+		// "port": "COM12", // my 3rd party Nano
+		"port": "COM14", // my main Nano Every for finish
+		
+		// "sketchbook.path": "/Users/jacobrosenthal/Documents/Arduino" // if needed (example)
+	}
+}
