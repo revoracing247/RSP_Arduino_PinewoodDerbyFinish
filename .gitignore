@@ -1,0 +1,7 @@
+
+*.sublime-workspace
+*.orig
+*__pycache__*
+*.lst
+*.pyc
+files/
