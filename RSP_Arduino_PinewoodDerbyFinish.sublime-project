@@ -2,8 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "."
-		}
+			"path": ".",
+		},
 	],
 	"settings":
 	{
@@ -17,5 +17,5 @@
 		"port": "COM14", // my main Nano Every for finish
 		
 		// "sketchbook.path": "/Users/jacobrosenthal/Documents/Arduino" // if needed (example)
-	}
+	},
 }
